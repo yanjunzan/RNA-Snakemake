@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - hisat2=2.1.0
+  - fastp=0.19.5
+  - sra-tools=2.11.0
+  - samtools=1.13
